@@ -46,4 +46,4 @@ Tidak diperlukan instalasi khusus. Pastikan Anda memiliki koneksi internet untuk
 ## Kontak
 
 Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi:
-- **Email**: [luqmankurniasandy@gmail.com](mailto:luqmankurniasandy@gmail.com)
+- **Email**: [Klik di sini](mailto:luqmankurniasandy@gmail.com)
